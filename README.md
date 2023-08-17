@@ -1,10 +1,10 @@
 # Hill Climb com Unity
-Este é um pequeno projeto contendo a réplica do famoso game Hill Climb feito em C# com a engine Unity. Diversos conceitos foram aplicados aqui, dentre eles:
+<i>Este é um pequeno projeto contendo a réplica do famoso game Hill Climb feito em C# com a engine Unity. Diversos conceitos foram aplicados aqui, dentre eles:
 - Uso de Polygon Collider 2D
 - Uso de Edge Collider 2D
 - Uso de Virtual Camera (Cinemachine)
 - Uso de Sprite Shape
-  
+</i>  
 
 # História
 
