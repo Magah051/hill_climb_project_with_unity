@@ -5,6 +5,7 @@
 - Uso de Virtual Camera (Cinemachine)
 - Uso de Sprite Shape
 </i>  
+<hr>
 
 # História
 
